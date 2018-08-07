@@ -1,0 +1,57 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Walbro Index</title>
+<link>https://www.archintel.com/rss/walbro/index</link>
+<description>
+<![CDATA[ Walbro RSS ]]>
+</description>
+<atom:link href="https://www.archintel.com/rss/index" rel="self"/>
+<webfeeds:logo>https://www.archintel.com/images/logo.png</webfeeds:logo>
+<image>
+<url>https://www.archintel.com/images/logo.png</url>
+<title>Walbro Index</title>
+<link>https://www.archintel.com/rss/walbro/index</link>
+</image>
+<language>en</language>
+<lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
+<item>
+<title>
+<![CDATA[ Index Today ]]>
+</title>
+<link>https://www.archintel.com/rss/index</link>
+<guid isPermaLink="true">https://www.archintel.com/rss/index</guid>
+<description>
+<![CDATA[ ]]>
+</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+<pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+<media:content url="https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000su4Y1EAI" medium="image" width="500" height="auto"/>
+</item>
+<item>
+<title>
+<![CDATA[ Companies Performance ]]>
+</title>
+<link>https://www.archintel.com/rss/index1</link>
+<guid isPermaLink="true">https://www.archintel.com/rss/index1</guid>
+<description>
+<![CDATA[ ]]>
+</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+<pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+<media:content url="https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000su4XrEAI" medium="image" width="500" height="auto"/>
+</item>
+<item>
+<title>
+<![CDATA[ Index Performance ]]>
+</title>
+<link>https://www.archintel.com/rss/index2</link>
+<guid isPermaLink="true">https://www.archintel.com/rss/index2</guid>
+<description>
+<![CDATA[ ]]>
+</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+<pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+<media:content url="https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000su4XwEAI" medium="image" width="500" height="auto"/>
+</item>
+</channel>
+</rss>
